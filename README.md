@@ -1,1 +1,2 @@
-![Uploading image.png…]()
+![Uploading quantigence_architectural_diagram.png…]()
+
